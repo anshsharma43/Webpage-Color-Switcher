@@ -14,5 +14,5 @@ switchBtn.addEventListener("click", function () {
 });
 
 function getRandomNum() {
-  return Math.floor(Math.random() * 256);
+  return Math.floor(Math.random() * 255);
 }
